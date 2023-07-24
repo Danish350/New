@@ -1,0 +1,146 @@
+.main-header{
+    background-color: #3F5C9A;
+    height: 80px;
+    display: flex;
+    justify-content:center;
+}
+.main-header img{
+    width: 120px;
+    height: 40px;
+    margin-right: 240px;
+    margin-top: 20px;
+}
+#uper-right-header{
+    
+    margin-left:200px;
+    margin-top: 10px;
+}
+.inputdata{
+    width: 100px;
+    height:auto;
+    margin-right:10px;
+}
+#uper-right-header p{
+      margin-bottom: -5px;
+      color:white;
+      font-family: arial;
+
+}
+
+.login{
+    background-color: rgb(162, 162, 216);
+    color: white;
+    border:none;
+    cursor: pointer;
+    padding-top:3px;
+    border: 1px solid rgb(12, 12, 59);
+    
+}
+.main-container{
+    background-color: rgb(245, 247, 248);
+    height: 550px;
+}
+
+.left-container{
+    width: 600px;
+    height: 300px;
+    margin-top: 60px;
+    margin-left: 250px;
+  
+}
+
+.left-container h4{
+    color:rgb(54, 54, 97);
+    font-family: arial;
+} 
+
+#right-container{
+    width: 350px;
+    height: 700px;
+    margin-left: 55%;
+    margin-top: -300px;
+}
+.heading{
+    line-height: 2px;
+    color:#3F5C9A;
+    font-family: arial;
+}
+
+#input-data-container{
+    color: #455c8b;
+    font-family: arial;
+}
+#input-data-container input{
+       margin-bottom: 5px;
+       padding: 2px 0 2px 0;
+       border-color: #aac1f1;
+}
+
+
+
+#input-data-container label{
+    font-size:15px;
+    font-family:arial;
+}
+.gender{
+    margin-left: 40px;
+    margin-bottom: 5px;;
+}
+.birthday-alignment{
+    margin-left: 15px;
+}
+
+
+#right-container button{
+    background-color: rgb(41, 170, 41);
+}
+.last-content{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.last-content a{
+    margin-bottom: 5px;
+    text-decoration: none;
+    font-family: arial;
+    font-size: 15px;
+}
+.last-statement{
+    font-family: arial;
+    font-size: 15px;
+    text-decoration:none;
+
+}
+.last-statement a{
+    text-decoration: none;
+}
+.my-footer{
+    text-align: center;
+   
+}
+.my-footer a{
+    text-decoration: none;
+    font-family: arial;
+    font-size:15px;
+}
+#left-bottom-footer{
+margin-left: 20%;
+margin-top:15px;
+
+ 
+}
+#left-bottom-footer a{
+    font-family: arial;
+    text-decoration: none;
+    font-size: 15px;  
+}
+#left-bottom-footer span{
+    color:rgb(145, 140, 140);
+}
+
+
+#right-bottom-footer a{
+    margin-left:45%;
+    text-decoration: none;
+    font-family: arial;
+    font-size: 15px;
+}
